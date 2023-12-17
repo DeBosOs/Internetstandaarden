@@ -98,7 +98,7 @@ button:hover {
 
 .v8miata {
     height: 30vh;
-    background: url(/images/miata.jpeg);
+    background: url(images/miata.jpeg);
     /* Deze foto is de thumbnail van deze video https://www.youtube.com/watch?v=Sx_9mGQrA-Y (echt een aanrader dit kanaal trouwens :p */
     background-size: 30%;
     background-repeat: no-repeat;
